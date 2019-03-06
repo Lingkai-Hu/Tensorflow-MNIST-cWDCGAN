@@ -1,7 +1,9 @@
-# Tensorflow-MNIST-cWDCGAN
+Tensorflow-MNIST-cWDCGAN
+===
 使用cWDCGAN生成近乎完美的MNIST手写数字/Generate near-perfect MNIST handwritten numbers using cWDCGAN
-<br>
-本项目中使用的神经网络被叫做ÇWDCGAN，它是cGAN、WGAN、DCGAN的一种结合。它的训练速度快、生成图像多样性高，具有十分优良的性能。<br>
+---
+<br><br>
+本项目中使用的神经网络被叫做cWDCGAN，它是cGAN、WGAN、DCGAN的一种结合。它的训练速度快、生成图像多样性高，具有十分优良的性能。<br>
 <br>
 如果代码文件在Github上无法直接查看，可以点击[这里](https://nbviewer.jupyter.org/github/XiaTianXing/Tensorflow-MNIST-cWDCGAN/blob/master/MNIST-cWDCGAN.ipynb)查看。<br><br><br>
 
