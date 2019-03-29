@@ -14,3 +14,4 @@ Tensorflow-MNIST-cWDCGAN
 <br>
 在训练结束后通过调节噪声插值生成手写数字图像，并合成为动图：<br>
 ![](https://github.com/XiaTianXing/Tensorflow-MNIST-cWDCGAN/blob/master/picture/20190306_162913.gif)
+
